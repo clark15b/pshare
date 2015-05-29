@@ -1,0 +1,11 @@
+Package: pshare
+Version: 0.0.2-ubuntu1
+Section: extra
+Architecture: i386
+Depends: libuuid1
+Priority: optional
+Maintainer: Anton Burdinuk <clark15b@gmail.com>
+Homepage: http://ps3muxer.org/pshare.html
+Description: UPnP Playlist Browser
+ http://ps3muxer.org/pshare.html
+ .

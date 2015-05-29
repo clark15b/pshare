@@ -1,0 +1,10 @@
+Package: pshare
+Architecture: ARCH
+Priority: optional
+Section: base
+Version: VER
+Maintainer: Anton Burdinuk <clark15b@gmail.com>
+Description: UPnP Playlist Browser http://ps3muxer.org/pshare.html
+Depends:
+Suggests:
+Conflicts:

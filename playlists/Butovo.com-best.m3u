@@ -1,0 +1,84 @@
+#EXTM3U
+#EXTINF:0,Детям: Disney Channel
+#EXTLOGO:http://upload.wikimedia.org/wikipedia/ru/thumb/4/48/Disney_channel_Logo_2010.png/200px-Disney_channel_Logo_2010.png
+http://192.168.1.1:4022/udp/234.5.2.65:20000
+
+#EXTINF:0,Детям: Теленяня
+#EXTLOGO:http://butovo.com/iptv/logos/children/telenyanya.gif
+http://192.168.1.1:4022/udp/234.5.2.71:20000
+
+#EXTINF:0,Doc: Discovery Channel
+#EXTLOGO:http://butovo.com/iptv/logos/science/discovery.gif
+http://192.168.1.1:4022/udp/234.5.2.64:20000
+
+#EXTINF:0,Doc: Discovery World
+#EXTLOGO:http://butovo.com/iptv/logos/science/world.gif
+http://192.168.1.1:4022/udp/234.5.2.61:20000
+
+#EXTINF:0,Doc: Discovery Science
+#EXTLOGO:http://butovo.com/iptv/logos/science/science.gif
+http://192.168.1.1:4022/udp/234.5.2.62:20000
+
+#EXTINF:0,Doc: Discovery Travel&Living
+#EXTLOGO:http://butovo.com/iptv/logos/science/travel_living.gif
+http://192.168.1.1:4022/udp/234.5.2.67:20000
+
+#EXTINF:0,Музыка: C Music
+#EXTLOGO:http://butovo.com/iptv/logos/music/c_music_tv.gif
+http://192.168.1.1:4022/udp/234.5.2.54:20000
+
+#EXTINF:0,Музыка: MCM TOP
+#EXTLOGO:http://butovo.com/iptv/logos/music/mcm.gif
+http://192.168.1.1:4022/udp/234.5.2.59:20000
+
+#EXTINF:0,Музыка: A-ONE
+#EXTLOGO:http://butovo.com/iptv/logos/music/aone.gif
+http://192.168.1.1:4022/udp/234.5.2.51:20000
+
+#EXTINF:0,Музыка: Bridge TV
+#EXTLOGO:http://butovo.com/iptv/logos/music/brigetv.gif
+http://192.168.1.1:4022/udp/234.5.2.53:20000
+
+#EXTINF:0,Музыка: Vh-1 Russia
+#EXTLOGO:http://butovo.com/iptv/logos/music/vh1.gif
+http://192.168.1.1:4022/udp/234.5.2.110:20000
+
+#EXTINF:0,Музыка: MTV-Dance
+#EXTLOGO:http://butovo.com/iptv/logos/music/mtv_dance.gif
+http://192.168.1.1:4022/udp/234.5.2.60:20000
+
+#EXTINF:0,Музыка: MTV-Hits
+#EXTLOGO:http://butovo.com/iptv/logos/music/mtv_hits.gif
+http://192.168.1.1:4022/udp/234.5.2.108:20000
+
+#EXTINF:0,Музыка: Music BOX
+#EXTLOGO:http://butovo.com/iptv/logos/music/musicbox.gif
+http://192.168.1.1:4022/udp/234.5.2.23:20000
+
+#EXTINF:0,Музыка: RUTV
+#EXTLOGO:http://butovo.com/iptv/logos/music/ru_tv.gif
+http://192.168.1.1:4022/udp/234.5.2.120:20000
+
+#EXTINF:0,Музыка: Biz TV UA
+#EXTLOGO:http://butovo.com/iptv/logos/music/biz_tv.gif
+http://192.168.1.1:4022/udp/234.5.2.130:20000
+
+#EXTINF:0,Спорт: Eurosport (HDTV 1024*576i)
+#EXTLOGO:http://butovo.com/iptv/logos/sport/eurosport.gif
+http://192.168.1.1:4022/udp/234.5.2.100:20000
+
+#EXTINF:0,Спорт: Eurosport2 (HDTV 1024*576i)
+#EXTLOGO:http://butovo.com/iptv/logos/sport/eurosport2.gif
+http://192.168.1.1:4022/udp/234.5.2.101:20000
+
+#EXTINF:0,Спорт: Русский Extreme
+#EXTLOGO:http://butovo.com/iptv/logos/sport/russian_extreme.gif
+http://192.168.1.1:4022/udp/234.5.2.109:20000
+
+#EXTINF:0,Спорт: Extreme Sports Channel
+#EXTLOGO:http://butovo.com/iptv/logos/sport/extreme_sports.gif
+http://192.168.1.1:4022/udp/234.5.2.75:20000
+
+#EXTINF:0,FULL HD 1080i: LUXE TV HD
+#EXTLOGO:http://butovo.com/iptv/logos/fashion/luxetv.gif
+http://192.168.1.1:4022/udp/234.5.2.136:20000

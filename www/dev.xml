@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root xmlns:dlna="urn:schemas-dlna-org:device-1-0" xmlns="urn:schemas-upnp-org:device-1-0">
+    <specVersion>
+        <major>1</major>
+        <minor>0</minor>
+    </specVersion>
+    <device>
+        <deviceType>urn:schemas-upnp-org:device:MediaServer:1</deviceType>
+        <friendlyName>#DEV_FNAME#</friendlyName>
+        <manufacturer>#MANUFACTURER#</manufacturer>
+        <manufacturerURL>#MANUFACTURER_URL#</manufacturerURL>
+        <modelDescription>#MODEL_DESCRIPTION#</modelDescription>
+        <modelName>#DEV_NAME#</modelName>
+        <modelNumber>#VERSION_NUMBER#</modelNumber>
+        <modelURL>#MODEL_URL#</modelURL>
+        <serialNumber>PSHARE-#VERSION_NUMBER#</serialNumber>
+        <UDN>uuid:#DEV_UUID#</UDN>
+        <iconList>
+           <icon>
+                <mimetype>image/png</mimetype>
+                <height>48</height>
+                <width>48</width>
+                <depth>8</depth>
+                <url>/icon-48x48.png</url>
+           </icon>
+        </iconList>
+        <serviceList>
+            <service>
+                <serviceType>urn:schemas-upnp-org:service:ContentDirectory:1</serviceType>
+                <serviceId>urn:upnp-org:serviceId:ContentDirectory</serviceId>
+                <SCPDURL>/cds.xml</SCPDURL>
+                <controlURL>/cds_control</controlURL>
+                <eventSubURL>/cds_event</eventSubURL>
+            </service>
+            <service>
+                <serviceType>urn:schemas-upnp-org:service:ConnectionManager:1</serviceType>
+                <serviceId>urn:upnp-org:serviceId:ConnectionManager</serviceId>
+                <SCPDURL>/cms.xml</SCPDURL>
+                <controlURL>/cms_control</controlURL>
+                <eventSubURL>/cms_event</eventSubURL>
+            </service>
+            <service>
+                <serviceType>urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1</serviceType>
+                <serviceId>urn:microsoft.com:serviceId:X_MS_MediaReceiverRegistrar</serviceId>
+                <SCPDURL>/msr.xml</SCPDURL>
+                <controlURL>/msr_control</controlURL>
+                <eventSubURL>/msr_event</eventSubURL>
+            </service>
+        </serviceList>
+        <presentationURL>/</presentationURL>
+    </device>
+    <URLBase>http://#DEV_HOST#:#DEV_PORT#/</URLBase>
+</root>

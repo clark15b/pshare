@@ -1,0 +1,505 @@
+#EXTM3U
+#EXTINF:0,Первый канал
+http://93.157.168.247:7781/udp/234.5.2.1:20000
+#EXTINF:0,Россия 1
+http://93.157.168.247:7781/udp/234.5.2.2:20000
+#EXTINF:0,ТВЦ
+http://93.157.168.247:7781/udp/234.5.2.3:20000
+#EXTINF:0,НТВ
+http://93.157.168.247:7781/udp/234.5.2.4:20000
+#EXTINF:0,Россия К
+http://93.157.168.247:7781/udp/234.5.2.5:20000
+#EXTINF:0,Россия 2
+http://93.157.168.247:7781/udp/234.5.2.6:20000
+#EXTINF:0,Домашний
+http://93.157.168.247:7781/udp/234.5.2.9:20000
+#EXTINF:0,MTV-Russia
+http://93.157.168.247:7781/udp/234.5.2.15:20000
+#EXTINF:0,Муз ТВ
+http://93.157.168.247:7781/udp/234.5.2.7:20000
+#EXTINF:0,СТС
+http://93.157.168.247:7781/udp/234.5.2.10:20000
+#EXTINF:0,РЕН-ТВ
+http://93.157.168.247:7781/udp/234.5.2.8:20000
+#EXTINF:0,ТНТ
+http://93.157.168.247:7781/udp/234.5.2.12:20000
+#EXTINF:0,ДТВ
+http://93.157.168.247:7781/udp/234.5.2.11:20000
+#EXTINF:0,ТВ3
+http://93.157.168.247:7781/udp/234.5.2.14:20000
+#EXTINF:0,7 ТВ
+http://93.157.168.247:7781/udp/234.5.2.13:20000
+#EXTINF:0,Столица
+http://93.157.168.247:7781/udp/234.5.2.17:20000
+#EXTINF:0,EuroNews
+http://93.157.168.247:7781/udp/234.5.2.16:20000
+#EXTINF:0,3 Канал
+http://93.157.168.247:7781/udp/234.5.2.125:20000
+#EXTINF:0,Tvci
+http://93.157.168.247:7781/udp/234.5.2.95:1234
+#EXTINF:0,5 Канал
+http://93.157.168.247:7781/udp/234.5.2.123:20000
+#EXTINF:0,2x2
+http://93.157.168.247:7781/udp/234.5.2.41:20000
+#EXTINF:0,Карусель
+http://93.157.168.247:7781/udp/234.5.2.19:20000
+#EXTINF:0,Карусель
+http://93.157.168.247:7781/udp/234.5.2.124:20000
+#EXTINF:0,Союз
+http://93.157.168.247:7781/udp/234.5.2.52:20000
+#EXTINF:0,МИР
+http://93.157.168.247:7781/udp/234.5.2.121:20000
+#EXTINF:0,ТРО Союз
+http://93.157.168.247:7781/udp/234.5.2.142:20000
+#EXTINF:0,Cartoon Network
+http://93.157.168.247:7781/udp/234.5.2.58:1234
+#EXTINF:0,Nickelodeon
+http://93.157.168.247:7781/udp/234.5.2.85:20000
+#EXTINF:0,Disney Channel
+http://93.157.168.247:7781/udp/234.5.2.65:20000
+#EXTINF:0,Детский Мир/ТелеКлуб
+http://93.157.168.247:7781/udp/234.5.2.88:20000
+#EXTINF:0,Universal
+http://93.157.168.247:7781/udp/234.5.2.111:20000
+#EXTINF:0,DIVA Universal
+http://93.157.168.247:7781/udp/234.5.2.89:20000
+#EXTINF:0,НТВ+ Наше Кино
+http://93.157.168.247:7781/udp/234.5.2.37:1234
+#EXTINF:0,Восьмой
+http://93.157.168.247:7781/udp/234.5.2.138:20000
+#EXTINF:0,ZONE Romantica
+http://93.157.168.247:7781/udp/234.5.2.69:20000
+#EXTINF:0,AXN Sci-Fi
+http://93.157.168.247:7781/udp/234.5.2.99:20000
+#EXTINF:0,Animal Planet
+http://93.157.168.247:7781/udp/234.5.2.66:20000
+#EXTINF:0,Discovery Channel
+http://93.157.168.247:7781/udp/234.5.2.64:20000
+#EXTINF:0,Discovery World
+http://93.157.168.247:7781/udp/234.5.2.61:1234
+#EXTINF:0,Discovery Science
+http://93.157.168.247:7781/udp/234.5.2.62:1234
+#EXTINF:0,TLC
+http://93.157.168.247:7781/udp/234.5.2.67:20000
+#EXTINF:0,Amazing Life
+http://93.157.168.247:7781/udp/234.5.2.102:20000
+#EXTINF:0,Спорт1
+http://93.157.168.247:7781/udp/234.5.2.18:20000
+#EXTINF:0,Спорт1
+http://93.157.168.247:7781/udp/234.5.2.54:20000
+#EXTINF:0,Eurosport
+http://93.157.168.247:7781/udp/234.5.2.100:20000
+#EXTINF:0,Eurosport 2
+http://93.157.168.247:7781/udp/234.5.2.101:20000
+#EXTINF:0,Русский Экстрим
+http://93.157.168.247:7781/udp/234.5.2.109:1234
+#EXTINF:0,Extreme Sports
+http://93.157.168.247:7781/udp/234.5.2.75:1234
+#EXTINF:0,Тел. ФУТБОЛ
+http://93.157.168.247:7780/udp/234.5.3.2:1234
+#EXTINF:0,НТВ+ Наш Футбол
+http://93.157.168.247:7781/udp/234.5.2.35:1234
+#EXTINF:0,НТВ+ Теннис
+http://93.157.168.247:7781/udp/234.5.2.32:1234
+#EXTINF:0,НТВ+ Баскетбол
+http://93.157.168.247:7781/udp/234.5.2.33:1234
+#EXTINF:0,НТВ+ Футбол
+http://93.157.168.247:7781/udp/234.5.2.31:1234
+#EXTINF:0,НТВ+ Футбол 2
+http://93.157.168.247:7781/udp/234.5.2.34:1234
+#EXTINF:0,НТВ+ Спорт плюс
+http://93.157.168.247:7781/udp/234.5.2.36:1234
+#EXTINF:0,НТВ+ Спорт
+http://93.157.168.247:7781/udp/234.5.2.30:1234
+#EXTINF:0,Extreme Sports
+http://93.157.168.247:7781/udp/234.5.2.75:1234
+#EXTINF:0,MCM Top
+http://93.157.168.247:7781/udp/234.5.2.59:1234
+#EXTINF:0,A-ONE
+http://93.157.168.247:7781/udp/234.5.2.51:20000
+#EXTINF:0,Bridge TV
+http://93.157.168.247:7781/udp/234.5.2.53:20000
+#EXTINF:0,VH1 Russia
+http://93.157.168.247:7781/udp/234.5.2.110:20000
+#EXTINF:0,MTV Dance
+http://93.157.168.247:7781/udp/234.5.2.60:1234
+#EXTINF:0,MTV Hits
+http://93.157.168.247:7781/udp/234.5.2.108:20000
+#EXTINF:0,Ru TV
+http://93.157.168.247:7781/udp/234.5.2.120:20000
+#EXTINF:0,1Muz
+http://93.157.168.247:7781/udp/234.5.2.114:20000
+#EXTINF:0,Music Box Rus
+http://93.157.168.247:7781/udp/234.5.2.81:20000
+#EXTINF:0,English Club TV
+http://93.157.168.247:7780/udp/234.5.3.3:1234
+#EXTINF:0,Шансон
+http://93.157.168.247:7781/udp/234.5.2.76:20000
+#EXTINF:0,Mezzo
+http://93.157.168.247:7781/udp/234.5.2.68:20000
+#EXTINF:0,O2 TV
+http://93.157.168.247:7781/udp/234.5.2.122:20000
+#EXTINF:0,Сарафан ТВ
+http://93.157.168.247:7781/udp/234.5.2.49:20000
+#EXTINF:0,Сарафан ТВ
+http://93.157.168.247:7781/udp/234.5.2.145:20000
+#EXTINF:0,TvARTru
+http://93.157.168.247:7781/udp/234.5.2.137:20000
+#EXTINF:0,РЖД
+http://93.157.168.247:7781/udp/234.5.2.140:20000
+#EXTINF:0,РТР Планета
+http://93.157.168.247:7781/udp/234.5.2.132:20000
+#EXTINF:0,Новый Век
+http://93.157.168.247:7781/udp/234.5.2.141:20000
+#EXTINF:0,НТК
+http://93.157.168.247:7781/udp/234.5.2.130:20000
+#EXTINF:0,P ТВ
+http://93.157.168.247:7781/udp/234.5.2.43:20000
+#EXTINF:0,Ностальгия
+http://93.157.168.247:7781/udp/234.5.2.79:1234
+#EXTINF:0,9
+http://93.157.168.247:7781/udp/234.5.2.46:20000
+#EXTINF:0,Агро-ТВ
+http://93.157.168.247:7781/udp/234.5.2.105:20000
+#EXTINF:0,TV Club
+http://93.157.168.247:7781/udp/234.5.2.42:20000
+#EXTINF:0,TDK
+http://93.157.168.247:7780/udp/234.5.3.1:1234
+#EXTINF:0,Az TV
+http://93.157.168.247:7781/udp/234.5.2.133:20000
+#EXTINF:0,ТТС
+http://93.157.168.247:7781/udp/234.5.2.143:20000
+#EXTINF:0,Shop TV
+http://93.157.168.247:7781/udp/234.5.2.103:20000
+#EXTINF:0,Top Shop TV
+http://93.157.168.247:7781/udp/234.5.2.146:20000
+#EXTINF:0,Top Shop TV
+http://93.157.168.247:7781/udp/234.5.2.102:20000
+#EXTINF:0,Style
+http://93.157.168.247:7781/udp/234.5.2.135:20000
+#EXTINF:0,Fashion TV
+http://93.157.168.247:7781/udp/234.5.2.50:20000
+#EXTINF:0,World Fashion Channel 
+http://93.157.168.247:7781/udp/234.5.2.84:20000
+#EXTINF:0,Luxe TV
+http://93.157.168.247:7781/udp/234.5.2.136:20000
+#EXTINF:0,Россия 24
+http://93.157.168.247:7781/udp/234.5.2.131:20000
+#EXTINF:0,EuroNews
+http://93.157.168.247:7781/udp/234.5.2.106:20000
+#EXTINF:0,Первый Метео
+http://93.157.168.247:7781/udp/234.5.2.127:20000
+#EXTINF:0,BBC World
+http://93.157.168.247:7781/udp/234.5.2.86:20000
+#EXTINF:0,Bloomberg
+http://93.157.168.247:7781/udp/234.5.2.83:20000
+#EXTINF:0,CNN International
+http://93.157.168.247:7781/udp/234.5.2.63:1234
+#EXTINF:0,Cctv4
+http://93.157.168.247:7781/udp/234.5.2.128:20000
+#EXTINF:0,Russian Travel Guide
+http://93.157.168.247:7781/udp/234.5.2.80:20000
+#EXTINF:0,Al Jazeera
+http://93.157.168.247:7781/udp/234.5.2.129:20000
+#EXTINF:0,TV5
+http://93.157.168.247:7781/udp/234.5.2.82:20000
+#EXTINF:0,Rusiya Al-Yaum
+http://93.157.168.247:7781/udp/234.5.2.87:1234
+#EXTINF:0,Russia Today
+http://93.157.168.247:7781/udp/234.5.2.126:1234
+#EXTINF:0,РБК
+http://93.157.168.247:7781/udp/234.5.2.104:20000
+#EXTINF:0,Эксперт ТВ
+http://93.157.168.247:7781/udp/234.5.2.115:20000
+#EXTINF:0,myZen.tv
+http://93.157.168.247:7780/udp/234.5.3.5:1234
+#EXTINF:0,HD Спорт
+http://93.157.168.247:7780/udp/234.5.3.6:1234
+#EXTINF:0,Eurosport HD
+http://93.157.168.247:7780/udp/234.5.3.7:1234
+#EXTINF:0,Nat Geo Wild HD
+http://93.157.168.247:7780/udp/234.5.3.9:1234
+#EXTINF:0,MTV Live HD
+http://93.157.168.247:7780/udp/234.5.3.10:1234
+#EXTINF:0,Спорт 1 HD
+http://93.157.168.247:7780/udp/234.5.3.11:1234
+#EXTINF:0,Brodilo TV
+http://brodilo.tv:8100
+#EXTINF:0,HD Media
+http://89.208.33.168:8100
+#EXTINF:0,HD Media 3D
+http://www.hdmedia.ru/3d/3d.php
+#EXTINF:0,THT barstv TV
+http://ftp.barstv.ru:4080
+#EXTINF:0,Первый канал
+http://001.tv.mozhay.net
+#EXTINF:0,Россия 1
+http://002.tv.mozhay.net
+#EXTINF:0,ТВЦ
+http://003.tv.mozhay.net
+#EXTINF:0,НТВ
+http://004.tv.mozhay.net
+#EXTINF:0,Россия К
+http://005.tv.mozhay.net
+#EXTINF:0,Россия 2
+http://006.tv.mozhay.net
+#EXTINF:0,Домашний
+http://013.tv.mozhay.net
+#EXTINF:0,MTV-Russia
+http://81.tv.mozhay.net
+#EXTINF:0,Муз ТВ
+http://89.tv.mozhay.net
+#EXTINF:0,СТС
+http://010.tv.mozhay.net
+#EXTINF:0,РЕН-ТВ
+http://011.tv.mozhay.net
+#EXTINF:0,ТНТ
+http://010.tv.mozhay.net
+#EXTINF:0,ДТВ
+http://014.tv.mozhay.net
+#EXTINF:0,ТВ3
+http://015.tv.mozhay.net
+#EXTINF:0,Звезда
+http://016.tv.mozhay.net
+#EXTINF:0,Comedy Club TV
+http://99.tv.mozhay.net
+#EXTINF:0,5 Канал
+http://017.tv.mozhay.net
+#EXTINF:0,2x2
+http://020.tv.mozhay.net
+#EXTINF:0,7 ТВ
+http://07.tv.mozhay.net
+#EXTINF:0,Первый канал +2 
+http://167.tv.mozhay.net 
+#EXTINF:0,СТС +7
+http://141.tv.mozhay.net 
+#EXTINF:0,РЕН +2 
+http://143.tv.mozhay.net 
+#EXTINF:0,ДТВ +7 
+http://140.tv.mozhay.net 
+#EXTINF:0,MTV-Russia +2 
+http://82.tv.mozhay.net 
+#EXTINF:0,Мир -2 
+http://142.tv.mozhay.net 
+#EXTINF:0,Universal
+http://050.tv.mozhay.net
+#EXTINF:0,SET
+http://051.tv.mozhay.net
+#EXTINF:0,AXN Sci-Fi
+http://052.tv.mozhay.net
+#EXTINF:0,Феникс+Кино
+http://053.tv.mozhay.net
+#EXTINF:0,Viasat ТВ1000 Русское кино
+http://056.tv.mozhay.net
+#EXTINF:0,TV 1000 Action
+http://055.tv.mozhay.net
+#EXTINF:0,TV 1000
+http://054.tv.mozhay.net
+#EXTINF:0,XXI
+http://057.tv.mozhay.net
+#EXTINF:0,Настоящее Cтрашное ТВ
+http://060.tv.mozhay.net
+#EXTINF:0,НСТ Cмешное ТВ
+http://055.tv.mozhay.net
+#EXTINF:0,Еврокино
+http://061.tv.mozhay.net
+#EXTINF:0,Fox Crime
+http://064.tv.mozhay.net
+#EXTINF:0,Fox Life
+http://065.tv.mozhay.net
+#EXTINF:0,1+1 Кино
+http://163.tv.mozhay.net
+#EXTINF:0,Ретро
+http://121.tv.mozhay.net
+#EXTINF:0,Zone Reality
+http://38.tv.mozhay.net
+#EXTINF:0,Русский Иллюзион
+http://50.tv.mozhay.net
+#EXTINF:0,Иллюзион+
+http://51.tv.mozhay.net
+#EXTINF:0,Моя Планета
+http://126.tv.mozhay.net
+#EXTINF:0,Discovery Channel
+http://100.tv.mozhay.net
+#EXTINF:0,Animal Planet
+http://112.tv.mozhay.net
+#EXTINF:0,Viasat Nature
+http://101.tv.mozhay.net
+#EXTINF:0,Viasat Explorer
+http://0146.tv.mozhay.net
+#EXTINF:0,Viasat History
+http://0147.tv.mozhay.net
+#EXTINF:0,24 Техно
+http://105.tv.mozhay.net
+#EXTINF:0,Домашние животные
+http://0153.tv.mozhay.net
+#EXTINF:0,Загородная жизнь
+http://110.tv.mozhay.net
+#EXTINF:0,Da vinci learning
+http://0150.tv.mozhay.net
+#EXTINF:0,ZOOпарк
+http://0152.tv.mozhay.net
+#EXTINF:0,National Geographic
+http://0157.tv.mozhay.net
+#EXTINF:0,Драйв_ТВ
+http://0172.tv.mozhay.net
+#EXTINF:0,Охота и Рыбалка
+http://0173.tv.mozhay.net
+#EXTINF:0,Усадьба ТВ
+http://0175.tv.mozhay.net
+#EXTINF:0,Психология 21
+http://0154.tv.mozhay.net
+#EXTINF:0,Вопросы и Ответы
+http://0155.tv.mozhay.net
+#EXTINF:0,Здоровое ТВ
+http://0174.tv.mozhay.net
+#EXTINF:0,Живи
+http://85.tv.mozhay.net
+#EXTINF:0,Телекафе
+http://86.tv.mozhay.net
+#EXTINF:0,Сарафан ТВ
+http://54.tv.mozhay.net
+#EXTINF:0,Мужской
+http://120.tv.mozhay.net
+#EXTINF:0,КХЛ ТВ
+http://036.tv.mozhay.net
+#EXTINF:0,Eurosport
+http://34.tv.mozhay.net
+#EXTINF:0,Eurosport 2
+http://35.tv.mozhay.net
+#EXTINF:0,Спорт 1
+http://33.tv.mozhay.net
+#EXTINF:0,Viasat Sport
+http://32.tv.mozhay.net
+#EXTINF:0,Extreme Sport
+http://39.tv.mozhay.net
+#EXTINF:0,Русский Экстрим
+http://31.tv.mozhay.net
+#EXTINF:0,Европа Плюс ТВ
+http://90.tv.mozhay.net
+#EXTINF:0,Европа Плюс ТВ
+http://0132.tv.mozhay.net
+#EXTINF:0,1Muz
+http://87.tv.mozhay.net
+#EXTINF:0,Шансон
+http://89.tv.mozhay.net
+#EXTINF:0,A-ONE
+http://83.tv.mozhay.net
+#EXTINF:0,Музыка Первого
+http://84.tv.mozhay.net
+#EXTINF:0,Fashion TV
+http://0120.tv.mozhay.net
+#EXTINF:0,РТР Планета
+http://027.tv.mozhay.net
+#EXTINF:0,Новый Век
+http://160.tv.mozhay.net
+#EXTINF:0,МИР
+http://021.tv.mozhay.net
+#EXTINF:0,Беларусь ТВ
+http://168.tv.mozhay.net
+#EXTINF:0,ТРО Союз
+http://161.tv.mozhay.net
+#EXTINF:0,TVCI
+http://169.tv.mozhay.net
+#EXTINF:0,НТК
+http://174.tv.mozhay.net
+#EXTINF:0,TBN
+http://182.tv.mozhay.net
+#EXTINF:0,I Tele
+http://162.tv.mozhay.net
+#EXTINF:0,Пик
+http://180.tv.mozhay.net
+#EXTINF:0,Ajara TV
+http://170.tv.mozhay.net
+#EXTINF:0,С1
+http://171.tv.mozhay.net
+#EXTINF:0,K+
+http://178.tv.mozhay.net
+#EXTINF:0,Arirang
+http://179.tv.mozhay.net
+#EXTINF:0,8 Канал
+http://173.tv.mozhay.net
+#EXTINF:0,Россия 24
+http://030.tv.mozhay.net
+#EXTINF:0,EuroNews
+http://034.tv.mozhay.net
+#EXTINF:0,PRess TV
+http://181.tv.mozhay.net
+#EXTINF:0,BBC World
+http://033.tv.mozhay.net
+#EXTINF:0,NHK World
+http://035.tv.mozhay.net
+#EXTINF:0,РБК
+http://024.tv.mozhay.net
+#EXTINF:0,MSAT
+http://176.tv.mozhay.net
+#EXTINF:0,RTD
+http://045.tv.mozhay.net
+#EXTINF:0,Russia Today
+http://025.tv.mozhay.net
+#EXTINF:0,Al Jazeera
+http://032.tv.mozhay.net
+#EXTINF:0,Эксперт ТВ
+http://026.tv.mozhay.net 
+#EXTINF:0,Disney Channel
+http://075.tv.mozhay.net
+#EXTINF:0,Карусель
+http://074.tv.mozhay.net
+#EXTINF:0,Nickelodeon
+http://076.tv.mozhay.net
+#EXTINF:0,Детский канал
+http://63.tv.mozhay.net
+#EXTINF:0,Мультимания
+http://64.tv.mozhay.net
+#EXTINF:0,Улыбка ребенка
+http://66.tv.mozhay.net
+#EXTINF:0,Jim Jam
+http://68.tv.mozhay.net
+#EXTINF:0,TiJi
+http://69.tv.mozhay.net
+#EXTINF:0,Gulli 
+http://70.tv.mozhay.net
+#EXTINF:0,TV Club
+http://127.tv.mozhay.net 
+#EXTINF:0,TV Club+ 
+http://152.tv.mozhay.net 
+#EXTINF:0,Домашний Магазин 
+http://150.tv.mozhay.net 
+#EXTINF:0,TV SALE 
+http://151.tv.mozhay.net 
+#EXTINF:0,Italia Channel 912 (Италия) 
+http://176.tv.mozhay.net 
+#EXTINF:0,ARAB 1
+http://113.tv.mozhay.net
+#EXTINF:0,ARAB 2
+http://114.tv.mozhay.net
+#EXTINF:0,TV Ri
+http://177.tv.mozhay.net
+#EXTINF:0,qqwdghr
+http://175.tv.mozhay.net
+#EXTINF:0,Чахоннаммо
+http://175.tv.mozhay.net
+#EXTINF:0,RT Arab
+http://031.tv.mozhay.net
+#EXTINF:0,Arab Sport
+http://044.tv.mozhay.net
+#EXTINF:0,Hod Hod TV
+http://65.tv.mozhay.net
+#EXTINF:0,Динамит FM
+http://radiostream.akado.ru/playlist/radio.m3u?station=dinamitfm&stream=128
+#EXTINF:0,Европа Плюс
+http://radiostream.akado.ru/playlist/radio.m3u?station=europaplus&stream=128
+#EXTINF:0,Русское Радио 
+http://radiostream.akado.ru/playlist/radio.m3u?station=russianradio&stream=128
+#EXTINF:0,Радио NRJ
+http://w02-cn01.akadostream.ru:8114/nrj192.mp3
+#EXTINF:0,Мегаполис
+http://radiostream.akado.ru/playlist/radio.m3u?station=megapolisfm&stream=128
+#EXTINF:0,Радио рекорд
+http://radiostream.akado.ru/playlist/radio.m3u?station=radiorecord&stream=128
+#EXTINF:0,Авторадио
+http://w02-cn01.akadostream.ru:8000/avtoradio128.mp3
+#EXTINF:0,Юмор ФМ
+http://w03-cn03.akadostream.ru:8114/jumorfm192.mp3
+#EXTINF:0,Релакс ФМ
+http://w04-cn03.akadostream.ru:8114/relaxfm192.mp3

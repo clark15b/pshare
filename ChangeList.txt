@@ -1,0 +1,57 @@
+0.0.2
+- Microsoft Media Player 12 as client supported:
+    X_MS_MediaReceiverRegistrar:1
+    ConnectionManager:1
+    ContentDirectory:1#GetSortCapabilities
+    ContentDirectory:1#Search
+    SUBSCRIBE, UNSUBSCRIBE
+- Artist name, actor and track number
+- Playlists reload (SIGUSR1 or 'http://host:port/reload')
+- '#EXTLOGO:' for stream logo (JPEG for PS3). Examples: '#EXTLOGO: /def_logo.jpg' or '#EXTLOGO: http://host/def_logo.jpg'
+- '#EXTTYPE:' for force stream type selection: mpeg,mpeg2,ts,vob,avi,asf,wmv,mp4,mov,aac,ac3,mp3,ogg,wma
+- '#EXTTYPE:' optional DLNA profile after file type, example: '#EXTTYPE:mp3,DLNA.ORG_PN=MP3;DLNA.ORG_OP=01;DLNA.ORG_FLAGS=01700000000000000000000000000000'
+- No images sharing now
+- Ignore track length from playlist
+- '-O2'
+- HTTP proxy for Internet radio (-DWITH_PROXY, 'PS3 - transferMode.dlna.org: Streaming')
+- '-e' for DLNA protocolInfo extend (DLNA_ORG.PN...), needed for radio on PS3
+- SD (MPEG2), 720p (MPEG2), 1080i (H.264/AVC) tested on Windows Media Player and PS3
+- MP3 Internet-radio tested on Windows Media Player and IconBit HDS4L
+- Bug fixes:
+    ulibc fstat() bugfix
+    uuid from /dev/urandom (-DWITH_URANDOM)
+    XML escape URLs
+    SystemUpdateID increment when playlists reload
+    '-i' now required
+    playlists path must be absolute
+    dlna:profileID="JPEG_TN" to upnp:albumArtURI for JPEG (use only JPEG for PS3)
+    <res size="0" ...>    
+    'EXT:' header to http responses
+    setsockopt(fd,IPPROTO_TCP,TCP_NODELAY,...)
+    trim playlist items
+    ContainerID in Search
+- XBox360 compatible (-x) - Windows Media Connect as Twonky (fake Windows Media Player)
+    start object id=100 (playlist_items_offset)
+    dev.xml => wmc.xml
+    object.container => object.container.storageFolder for child containers on XBox 360
+    ContainerID or ObjectID in Browse
+
+Playlist example:
+--------------------------
+#EXTM3U
+#EXTINF:0,Channel 1 - TV
+#EXTLOGO:http://host/logo.jpg
+http://192.168.1.1:4022/udp/234.5.2.1:20000
+#EXTINF:0,Channel 2 - Radio
+#EXTLOGO:http://host/logo.gif
+#EXTTYPE:mp3,DLNA.ORG_PN=MP3;DLNA.ORG_OP=01;DLNA.ORG_FLAGS=01700000000000000000000000000000
+http://192.168.1.1:4022/udp/234.5.2.2:20000
+#EXTINF:0,Channel 3 - Radio
+http://192.168.1.1:4022/udp/234.5.2.3:20000/stream.mp3
+
+
+
+0.0.1
+- Sony PlayStation 3, IconBit HDS4L and VideoLAN as Media Player supported
+- Ubuntu 10.04 (Linux, IA-32), D-Link DIR-320 (DD-WRT v24 preSP2 13064, mipsel) and ASUS WL-500gP as Media Server supported
+- UTF8 encoded M3U playlists supported
